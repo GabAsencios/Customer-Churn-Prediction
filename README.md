@@ -61,3 +61,12 @@ Three data-driven recommendations for StreamFlex:
 
 `customer_churn.csv` – Contains customer demographics, usage behavior, support history, 
 and subscription details for a fictional streaming platform.
+
+## Team
+
+- Gabriel Asencios
+- Shashwat Shah
+- Said El-Sherbiny
+- Arvind Lakshmanan
+
+Submitted for SOEN 471 – Big Data Analytics, Concordia University, March 2026.
